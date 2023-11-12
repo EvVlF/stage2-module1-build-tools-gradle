@@ -1,4 +1,6 @@
-//add everything here
+repositories {
+    mavenCentral()
+}
 
 test {
     useJUnitPlatform()
